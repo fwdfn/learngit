@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 123456
 654987
 Git tracks changes
-Creating a new branch is quick and simple.
+Creating a new branch is quick 
